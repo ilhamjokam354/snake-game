@@ -1,4 +1,4 @@
 # Simple Snake Game With CANVAS 
 
 DEMO 
-[GitHub](http://github.com)
+[GitHub](https://ilhamjokam354.github.io/snake-game/)
